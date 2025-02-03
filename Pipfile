@@ -1,0 +1,30 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+langchain-google-genai = "*"
+smolagents = "*"
+pandas = "*"
+langchain = "*"
+langchain-community = "*"
+sentence-transformers = "*"
+rank-bm25 = "*"
+langchain-openai = "*"
+faiss-cpu = "*"
+streamlit = "*"
+streamlit-chat = "*"
+litellm = "*"
+matplotlib = "*"
+plotly-express = "*"
+langgraph = "*"
+ipython = "*"
+st-pages = "*"
+streamlit-option-menu = "*"
+streamlit-shadcn-ui = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

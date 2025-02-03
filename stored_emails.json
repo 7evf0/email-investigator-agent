@@ -1,0 +1,237 @@
+[
+    {
+        "subject": "Security Warning: Office 365 Credential Phishing",
+        "body": "Dear Tevfik Emre Sungur,\n\nWe would like to inform you about a critical security warning related to Office 365 Credential Phishing. Please take immediate action to review your security settings and ensure that your account is protected.\n\nWarning Date: 2025-02-01\nWarning Time: 14:22:36.122765\n\nBest Regards,\nSecurity Team",
+        "category": "Security"
+    },
+    {
+        "subject": "Security Warning: Over-provisioned Admin Access",
+        "body": "Dear Tevfik Emre Sungur,\n\nWe would like to inform you about a critical security warning related to Over-provisioned Admin Access. Please take immediate action to review your security settings and ensure that your account is protected.\n\nWarning Date: 2025-02-01\nWarning Time: 14:22:36.122765\n\nBest Regards,\nSecurity Team",
+        "category": "Security"
+    },
+    {
+        "subject": "Security Warning: Bypassing Multi-Factor Authentication (MFA)",
+        "body": "Dear Tevfik Emre Sungur,\n\nWe would like to inform you about a critical security warning related to Bypassing Multi-Factor Authentication (MFA). Please take immediate action to review your security settings and ensure that your account is protected.\n\nWarning Date: 2025-02-01\nWarning Time: 14:22:36.122765\n\nBest Regards,\nSecurity Team",
+        "category": "Security"
+    },
+    {
+        "subject": "Security Warning: Weak Conditional Access Policies",
+        "body": "Dear Tevfik Emre Sungur,\n\nWe would like to inform you about a critical security warning related to Weak Conditional Access Policies. Please take immediate action to review your security settings and ensure that your account is protected.\n\nWarning Date: 2025-02-01\nWarning Time: 14:22:36.122765\n\nBest Regards,\nSecurity Team",
+        "category": "Security"
+    },
+    {
+        "subject": "Security Warning: Misconfigured Permissions in SharePoint Online",
+        "body": "Dear Tevfik Emre Sungur,\n\nWe would like to inform you about a critical security warning related to Misconfigured Permissions in SharePoint Online. Please take immediate action to review your security settings and ensure that your account is protected.\n\nWarning Date: 2025-02-01\nWarning Time: 14:22:36.122765\n\nBest Regards,\nSecurity Team",
+        "category": "Security"
+    },
+    {
+        "subject": "Security Warning: Weak Password Policies",
+        "body": "Dear Tevfik Emre Sungur,\n\nWe would like to inform you about a critical security warning related to Weak Password Policies. Please take immediate action to review your security settings and ensure that your account is protected.\n\nWarning Date: 2025-02-01\nWarning Time: 14:22:36.122765\n\nBest Regards,\nSecurity Team",
+        "category": "Security"
+    },
+    {
+        "subject": "Security Warning: Data Loss Prevention (DLP) Mismanagement",
+        "body": "Dear Tevfik Emre Sungur,\n\nWe would like to inform you about a critical security warning related to Data Loss Prevention (DLP) Mismanagement. Please take immediate action to review your security settings and ensure that your account is protected.\n\nWarning Date: 2025-02-01\nWarning Time: 14:22:36.122765\n\nBest Regards,\nSecurity Team",
+        "category": "Security"
+    },
+    {
+        "subject": "Security Warning: Not Monitoring Suspicious Sign-In Activity",
+        "body": "Dear Tevfik Emre Sungur,\n\nWe would like to inform you about a critical security warning related to Not Monitoring Suspicious Sign-In Activity. Please take immediate action to review your security settings and ensure that your account is protected.\n\nWarning Date: 2025-02-01\nWarning Time: 14:22:36.122765\n\nBest Regards,\nSecurity Team",
+        "category": "Security"
+    },
+    {
+        "subject": "Security Warning: Unregulated Registered Applications",
+        "body": "Dear Tevfik Emre Sungur,\n\nWe would like to inform you about a critical security warning related to Unregulated Registered Applications. Please take immediate action to review your security settings and ensure that your account is protected.\n\nWarning Date: 2025-02-01\nWarning Time: 14:22:36.122765\n\nBest Regards,\nSecurity Team",
+        "category": "Security"
+    },
+    {
+        "subject": "Security Warning: Anonymous Links Creation for SharePoint Sites",
+        "body": "Dear Tevfik Emre Sungur,\n\nWe would like to inform you about a critical security warning related to Anonymous Links Creation for SharePoint Sites. Please take immediate action to review your security settings and ensure that your account is protected.\n\nWarning Date: 2025-02-01\nWarning Time: 14:22:36.122765\n\nBest Regards,\nSecurity Team",
+        "category": "Security"
+    },
+    {
+        "subject": "Security Warning: Guest User Invitation Risks",
+        "body": "Dear Tevfik Emre Sungur,\n\nWe would like to inform you about a critical security warning related to Guest User Invitation Risks. Please take immediate action to review your security settings and ensure that your account is protected.\n\nWarning Date: 2025-02-01\nWarning Time: 14:22:36.122765\n\nBest Regards,\nSecurity Team",
+        "category": "Security"
+    },
+    {
+        "subject": "Security Warning: Not Restricting Access to Shared Mailboxes",
+        "body": "Dear Tevfik Emre Sungur,\n\nWe would like to inform you about a critical security warning related to Not Restricting Access to Shared Mailboxes. Please take immediate action to review your security settings and ensure that your account is protected.\n\nWarning Date: 2025-02-01\nWarning Time: 14:22:36.122765\n\nBest Regards,\nSecurity Team",
+        "category": "Security"
+    },
+    {
+        "subject": "Security Warning: Unrestricted Access to MS Graph, Remote PowerShell, Azure AD",
+        "body": "Dear Tevfik Emre Sungur,\n\nWe would like to inform you about a critical security warning related to Unrestricted Access to MS Graph, Remote PowerShell, Azure AD. Please take immediate action to review your security settings and ensure that your account is protected.\n\nWarning Date: 2025-02-01\nWarning Time: 14:22:36.122765\n\nBest Regards,\nSecurity Team",
+        "category": "Security"
+    },
+    {
+        "subject": "Security Warning: Non-Admin Access to Entra Portal",
+        "body": "Dear Tevfik Emre Sungur,\n\nWe would like to inform you about a critical security warning related to Non-Admin Access to Entra Portal. Please take immediate action to review your security settings and ensure that your account is protected.\n\nWarning Date: 2025-02-01\nWarning Time: 14:22:36.122765\n\nBest Regards,\nSecurity Team",
+        "category": "Security"
+    },
+    {
+        "subject": "Security Warning: User-Caused Errors",
+        "body": "Dear Tevfik Emre Sungur,\n\nWe would like to inform you about a critical security warning related to User-Caused Errors. Please take immediate action to review your security settings and ensure that your account is protected.\n\nWarning Date: 2025-02-01\nWarning Time: 14:22:36.122765\n\nBest Regards,\nSecurity Team",
+        "category": "Security"
+    },
+    {
+        "subject": "Pull Request Notification: removes outdated word usage in traumas.json (#89282)",
+        "body": "Subject: removes outdated word usage in traumas.json (#89282)\n    Commit ID: ad4789afa45389d2ba1efc36bb8dc8575415c06c\n    Committer: GitHub\n    Description: removes outdated word usage in traumas.json (#89282)\n    Date: 2025-01-30\n    Hour: 13:29:39",
+        "category": "Github PR"
+    },
+    {
+        "subject": "Pull Request Notification: [NO GBP] Blacklists window from spraypaint colorshifting (#89225)",
+        "body": "Subject: [NO GBP] Blacklists window from spraypaint colorshifting (#89225)\n    Commit ID: 65afc34fff56ca1aa104dc58836da688c6f23289\n    Committer: GitHub\n    Description: [NO GBP] Blacklists window from spraypaint colorshifting (#89225)\n\n## About The Pull Request\nCloses #88878 by reverting window painting to old behavior\n\n## Changelog\n:cl:\nfix: Fixed issues with window tinting/coloration\n/:cl:\n    Date: 2025-01-30\n    Hour: 12:23:39",
+        "category": "Github PR"
+    },
+    {
+        "subject": "Pull Request Notification: Removes TRAIT_ALLOWED_HONORBOUND_ATTACK since it is deprecated (#89151)",
+        "body": "Subject: Removes TRAIT_ALLOWED_HONORBOUND_ATTACK since it is deprecated (#89151)\n    Commit ID: 705da6a08f9e9b3f990374d4f80306fa520d8efd\n    Committer: GitHub\n    Description: Removes TRAIT_ALLOWED_HONORBOUND_ATTACK since it is deprecated (#89151)\n\n## About The Pull Request\r\n\r\nfixes https://github.com/tgstation/tgstation/issues/89149\r\n\r\n## Why It's Good For The Game\r\n\r\nThis trait not only no longer is needed, but functiona...\n    Date: 2025-01-30\n    Hour: 20:24:42",
+        "category": "Github PR"
+    },
+    {
+        "subject": "Pull Request Notification: Fixes a missing area in the corner of icebox morgue (#89269)",
+        "body": "Subject: Fixes a missing area in the corner of icebox morgue (#89269)\n    Commit ID: 4f8f3292506886db1eb94f0156c5e40f899b88f1\n    Committer: GitHub\n    Description: Fixes a missing area in the corner of icebox morgue (#89269)\n\n## About The Pull Request\n\n\n![image](https://github.com/user-attachments/assets/849c59cb-bd43-41f1-b671-3ad16221678b)\n\n## Changelog\n:cl:\nfix: Fixed a missing area in the corner of icebox m...\n    Date: 2025-01-30\n    Hour: 12:22:51",
+        "category": "Github PR"
+    },
+    {
+        "subject": "Pull Request Notification: Makes the PENLITE mount actually charge defibs (#89299)",
+        "body": "Subject: Makes the PENLITE mount actually charge defibs (#89299)\n    Commit ID: df0ff4541e722d83df95dd5baa3fc9de9c0aa98d\n    Committer: GitHub\n    Description: Makes the PENLITE mount actually charge defibs (#89299)\n\nCo-authored-by: SmArtKar <44720187+SmArtKar@users.noreply.github.com>\n    Date: 2025-01-31\n    Hour: 19:47:59",
+        "category": "Github PR"
+    },
+    {
+        "subject": "Pull Request Notification: [NO GBP] Sets Herignis heating coefficient to 1 (#89086)",
+        "body": "Subject: [NO GBP] Sets Herignis heating coefficient to 1 (#89086)\n    Commit ID: 6f5a95372b1c1d70a0036729edc25d167858dee2\n    Committer: GitHub\n    Description: [NO GBP] Sets Herignis heating coefficient to 1 (#89086)\n\n## About The Pull Request\nFollow up on #89070. While testing yes it did work however it would only\nincrease the temps by 1K every tick because the heating coefficient was\nvery low(0.02). It's ...\n    Date: 2025-01-30\n    Hour: 12:42:25",
+        "category": "Github PR"
+    },
+    {
+        "subject": "Pull Request Notification: Premium Internals Boxes station trait now has unique box sprites (#89296)",
+        "body": "Subject: Premium Internals Boxes station trait now has unique box sprites (#89296)\n    Commit ID: baf43a4ba7f4e7fbde2297a393019e24e40c9238\n    Committer: GitHub\n    Description: Premium Internals Boxes station trait now has unique box sprites (#89296)\n    Date: 2025-01-31\n    Hour: 18:55:20",
+        "category": "Github PR"
+    },
+    {
+        "subject": "Pull Request Notification: Automatic changelog compile [ci skip]",
+        "body": "Subject: Automatic changelog compile [ci skip]\n    Commit ID: 2c909fc89e68e114f54f7e97ec7939b3df1a0d55\n    Committer: tgstation-ci[bot]\n    Description: Automatic changelog compile [ci skip]\n    Date: 2025-02-01\n    Hour: 00:28:01",
+        "category": "Github PR"
+    },
+    {
+        "subject": "Pull Request Notification: I am so good at my job (codeowners fix) (#89288)",
+        "body": "Subject: I am so good at my job (codeowners fix) (#89288)\n    Commit ID: d5bc76c2736b5d4b5039d4916f61d7de6e224a4b\n    Committer: GitHub\n    Description: I am so good at my job (codeowners fix) (#89288)\n    Date: 2025-01-30\n    Hour: 13:59:55",
+        "category": "Github PR"
+    },
+    {
+        "subject": "Pull Request Notification: Adds TGUI layout preference (For SmartFridge & Vending machines for now) (#89160)",
+        "body": "Subject: Adds TGUI layout preference (For SmartFridge & Vending machines for now) (#89160)\n    Commit ID: 5516a906b68c2ac6a727a6f8b18e6f9046d06979\n    Committer: GitHub\n    Description: Adds TGUI layout preference (For SmartFridge & Vending machines for now) (#89160)\n\n## About The Pull Request\nAdded preference for layout selection in some interfaces such as\nSmartFridge and Vending, where there is an option to switch between grid\nvie...\n    Date: 2025-02-01\n    Hour: 00:21:43",
+        "category": "Github PR"
+    },
+    {
+        "subject": "Pull Request Notification: adds ignored faction to pellet cloud transferred variables (#89278)",
+        "body": "Subject: adds ignored faction to pellet cloud transferred variables (#89278)\n    Commit ID: 3c6dad93fd5a8c3f94942b7fb6c1aafb6d45e111\n    Committer: GitHub\n    Description: adds ignored faction to pellet cloud transferred variables (#89278)\n\n## About The Pull Request\n\ndoes what it says on the title. \nAdds ignored faction to pellet cloud component, allowing shotguns to\nmake use of the ignore faction variable for goofy th...\n    Date: 2025-01-30\n    Hour: 12:24:47",
+        "category": "Github PR"
+    },
+    {
+        "subject": "Pull Request Notification: Forensic scanner UI and report format update (#89221)",
+        "body": "Subject: Forensic scanner UI and report format update (#89221)\n    Commit ID: 2fed024d0f5b5b4b321bf61efba7f52e48b23671\n    Committer: GitHub\n    Description: Forensic scanner UI and report format update (#89221)\n\n## About The Pull Request\n\nAdded UI for the forensic scanner.\n\n<details><summary>UI</summary>\n<img alt=\"gRO2mae3E4\"\nsrc=\"https://github.com/user-attachments/assets/360832de-0485-4827-a4e1-957541c...\n    Date: 2025-01-31\n    Hour: 15:59:02",
+        "category": "Github PR"
+    },
+    {
+        "subject": "Pull Request Notification: Automatic changelog compile [ci skip]",
+        "body": "Subject: Automatic changelog compile [ci skip]\n    Commit ID: f1e6e71abfe9c5ea2ab417df9b2342e4e0468d95\n    Committer: tgstation-ci[bot]\n    Description: Automatic changelog compile [ci skip]\n    Date: 2025-01-31\n    Hour: 00:25:39",
+        "category": "Github PR"
+    },
+    {
+        "subject": "Pull Request Notification: Supply Consoles restyle & order content preview (#89198)",
+        "body": "Subject: Supply Consoles restyle & order content preview (#89198)\n    Commit ID: d773f4db2ff5dce051510dae6674e34edf5d27bf\n    Committer: GitHub\n    Description: Supply Consoles restyle & order content preview (#89198)\n\n## About The Pull Request\nIn a nutshell, everything will be visible in the `Demo` section.\nBut if you want some details...\n\n- Filling of static_data was divided into procs, for better\nundersta...\n    Date: 2025-01-30\n    Hour: 16:00:12",
+        "category": "Github PR"
+    },
+    {
+        "subject": "Pull Request Notification: Fixes PAIs not being able to send messages or turn the GPS off (#89279)",
+        "body": "Subject: Fixes PAIs not being able to send messages or turn the GPS off (#89279)\n    Commit ID: fd1bc8f9d034534148df142f074223f777e94b2e\n    Committer: GitHub\n    Description: Fixes PAIs not being able to send messages or turn the GPS off (#89279)\n\n## About The Pull Request\n\nFixes https://github.com/NovaSector/NovaSector/issues/4826\n\nSince https://github.com/tgstation/tgstation/pull/88651 PAIs have been\nblanket barred from...\n    Date: 2025-01-30\n    Hour: 12:41:09",
+        "category": "Github PR"
+    },
+    {
+        "subject": "Pull Request Notification: Buffed solar panels to give more power, AND they are upgradable! (#88864)",
+        "body": "Subject: Buffed solar panels to give more power, AND they are upgradable! (#88864)\n    Commit ID: 21ab7fdc26a3af030dda92b0f576594401ee1bb8\n    Committer: GitHub\n    Description: Buffed solar panels to give more power, AND they are upgradable! (#88864)\n\n## About The Pull Request\r\n\r\nBuffed how much power solars make, and made them upgradeable!\r\n## Why It's Good For The Game\r\n\r\nCurrently as it stands, its almost never worth the...\n    Date: 2025-01-31\n    Hour: 19:45:10",
+        "category": "Github PR"
+    },
+    {
+        "subject": "Pull Request Notification: fixes button in plane debugger [NO GBP] (#89294)",
+        "body": "Subject: fixes button in plane debugger [NO GBP] (#89294)\n    Commit ID: af2349f60e76472bb2e4695d7fa6ac80fb728c10\n    Committer: GitHub\n    Description: fixes button in plane debugger [NO GBP] (#89294)\n\n## About The Pull Request\nfixes rebuild button i broke in\nhttps://github.com/tgstation/tgstation/pull/89280\nturns out it is case sensitive \nmy mistake\n## Why It's Good For The Game\ngood for debugging\n...\n    Date: 2025-02-01\n    Hour: 00:22:10",
+        "category": "Github PR"
+    },
+    {
+        "subject": "Billing Notification: Awaiting Payment for Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+        "body": "Dear Tevfik Emre Sungur,\n\nThank you for your recent purchase! You have an awaiting payment for the following product:\n\nProduct Name: Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops\nPrice: $$109.95\nDescription: Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday\nLink: https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg\n\nPlease ensure to complete your payment at your earliest convenience.\n\nBest regards,\nThe Billing Team",
+        "category": "Billing"
+    },
+    {
+        "subject": "Billing Notification: Awaiting Payment for Mens Casual Premium Slim Fit T-Shirts ",
+        "body": "Dear Tevfik Emre Sungur,\n\nThank you for your recent purchase! You have an awaiting payment for the following product:\n\nProduct Name: Mens Casual Premium Slim Fit T-Shirts \nPrice: $$22.30\nDescription: Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.\nLink: https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg\n\nPlease ensure to complete your payment at your earliest convenience.\n\nBest regards,\nThe Billing Team",
+        "category": "Billing"
+    },
+    {
+        "subject": "Billing Notification: Awaiting Payment for Mens Cotton Jacket",
+        "body": "Dear Tevfik Emre Sungur,\n\nThank you for your recent purchase! You have an awaiting payment for the following product:\n\nProduct Name: Mens Cotton Jacket\nPrice: $$55.99\nDescription: great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.\nLink: https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg\n\nPlease ensure to complete your payment at your earliest convenience.\n\nBest regards,\nThe Billing Team",
+        "category": "Billing"
+    },
+    {
+        "subject": "Billing Notification: Awaiting Payment for Mens Casual Slim Fit",
+        "body": "Dear Tevfik Emre Sungur,\n\nThank you for your recent purchase! You have an awaiting payment for the following product:\n\nProduct Name: Mens Casual Slim Fit\nPrice: $$15.99\nDescription: The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.\nLink: https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg\n\nPlease ensure to complete your payment at your earliest convenience.\n\nBest regards,\nThe Billing Team",
+        "category": "Billing"
+    },
+    {
+        "subject": "Billing Notification: Awaiting Payment for John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+        "body": "Dear Tevfik Emre Sungur,\n\nThank you for your recent purchase! You have an awaiting payment for the following product:\n\nProduct Name: John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet\nPrice: $$695.00\nDescription: From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.\nLink: https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg\n\nPlease ensure to complete your payment at your earliest convenience.\n\nBest regards,\nThe Billing Team",
+        "category": "Billing"
+    },
+    {
+        "subject": "Billing Notification: Awaiting Payment for Solid Gold Petite Micropave ",
+        "body": "Dear Tevfik Emre Sungur,\n\nThank you for your recent purchase! You have an awaiting payment for the following product:\n\nProduct Name: Solid Gold Petite Micropave \nPrice: $$168.00\nDescription: Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.\nLink: https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg\n\nPlease ensure to complete your payment at your earliest convenience.\n\nBest regards,\nThe Billing Team",
+        "category": "Billing"
+    },
+    {
+        "subject": "Billing Notification: Awaiting Payment for White Gold Plated Princess",
+        "body": "Dear Tevfik Emre Sungur,\n\nThank you for your recent purchase! You have an awaiting payment for the following product:\n\nProduct Name: White Gold Plated Princess\nPrice: $$9.99\nDescription: Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...\nLink: https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg\n\nPlease ensure to complete your payment at your earliest convenience.\n\nBest regards,\nThe Billing Team",
+        "category": "Billing"
+    },
+    {
+        "subject": "Billing Notification: Awaiting Payment for Pierced Owl Rose Gold Plated Stainless Steel Double",
+        "body": "Dear Tevfik Emre Sungur,\n\nThank you for your recent purchase! You have an awaiting payment for the following product:\n\nProduct Name: Pierced Owl Rose Gold Plated Stainless Steel Double\nPrice: $$10.99\nDescription: Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel\nLink: https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg\n\nPlease ensure to complete your payment at your earliest convenience.\n\nBest regards,\nThe Billing Team",
+        "category": "Billing"
+    },
+    {
+        "subject": "Billing Notification: Awaiting Payment for WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+        "body": "Dear Tevfik Emre Sungur,\n\nThank you for your recent purchase! You have an awaiting payment for the following product:\n\nProduct Name: WD 2TB Elements Portable External Hard Drive - USB 3.0 \nPrice: $$64.00\nDescription: USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user\u2019s hardware configuration and operating system\nLink: https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg\n\nPlease ensure to complete your payment at your earliest convenience.\n\nBest regards,\nThe Billing Team",
+        "category": "Billing"
+    },
+    {
+        "subject": "Billing Notification: Awaiting Payment for SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+        "body": "Dear Tevfik Emre Sungur,\n\nThank you for your recent purchase! You have an awaiting payment for the following product:\n\nProduct Name: SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s\nPrice: $$109.00\nDescription: Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5\u201d hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)\nLink: https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg\n\nPlease ensure to complete your payment at your earliest convenience.\n\nBest regards,\nThe Billing Team",
+        "category": "Billing"
+    },
+    {
+        "subject": "Billing Notification: Awaiting Payment for Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+        "body": "Dear Tevfik Emre Sungur,\n\nThank you for your recent purchase! You have an awaiting payment for the following product:\n\nProduct Name: Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5\nPrice: $$109.00\nDescription: 3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.\nLink: https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg\n\nPlease ensure to complete your payment at your earliest convenience.\n\nBest regards,\nThe Billing Team",
+        "category": "Billing"
+    },
+    {
+        "subject": "Billing Notification: Awaiting Payment for WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+        "body": "Dear Tevfik Emre Sungur,\n\nThank you for your recent purchase! You have an awaiting payment for the following product:\n\nProduct Name: WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive\nPrice: $$114.00\nDescription: Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty\nLink: https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg\n\nPlease ensure to complete your payment at your earliest convenience.\n\nBest regards,\nThe Billing Team",
+        "category": "Billing"
+    },
+    {
+        "subject": "Billing Notification: Awaiting Payment for Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+        "body": "Dear Tevfik Emre Sungur,\n\nThank you for your recent purchase! You have an awaiting payment for the following product:\n\nProduct Name: Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin\nPrice: $$599.00\nDescription: 21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz\nLink: https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg\n\nPlease ensure to complete your payment at your earliest convenience.\n\nBest regards,\nThe Billing Team",
+        "category": "Billing"
+    },
+    {
+        "subject": "Billing Notification: Awaiting Payment for Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) \u2013 Super Ultrawide Screen QLED ",
+        "body": "Dear Tevfik Emre Sungur,\n\nThank you for your recent purchase! You have an awaiting payment for the following product:\n\nProduct Name: Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) \u2013 Super Ultrawide Screen QLED \nPrice: $$999.99\nDescription: 49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag\nLink: https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg\n\nPlease ensure to complete your payment at your earliest convenience.\n\nBest regards,\nThe Billing Team",
+        "category": "Billing"
+    },
+    {
+        "subject": "Billing Notification: Awaiting Payment for BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+        "body": "Dear Tevfik Emre Sungur,\n\nThank you for your recent purchase! You have an awaiting payment for the following product:\n\nProduct Name: BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats\nPrice: $$56.99\nDescription: Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates\nLink: https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg\n\nPlease ensure to complete your payment at your earliest convenience.\n\nBest regards,\nThe Billing Team",
+        "category": "Billing"
+    }
+]
