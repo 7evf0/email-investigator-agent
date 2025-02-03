@@ -1,5 +1,5 @@
-** Email & Report Generation Workflow:
-![alt text](https://github.com/7evf0/email-investigator-agent/blob/main/workflow_images/agentic-rag.jpg)
+## Email & Report Generation Workflow:
+<img src="https://github.com/7evf0/email-investigator-agent/blob/main/workflow_images/agentic-rag.jpg" width="600">
 
-** Agentic RAG Workflow:
-![alt text](https://github.com/7evf0/email-investigator-agent/blob/main/workflow_images/email-report-generation.jpg)
+## Agentic RAG Workflow:
+<img src="https://github.com/7evf0/email-investigator-agent/blob/main/workflow_images/email-report-generation.jpg" width="600">
